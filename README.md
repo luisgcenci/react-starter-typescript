@@ -1,4 +1,4 @@
-# Tricentis Analytics - Frontend
+# Project Name
 
 Tricentis Analytics is an enterprise analytics and business intelligence application for the Tricentis Continuous Testing platform.
 
