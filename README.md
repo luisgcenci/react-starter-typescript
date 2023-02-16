@@ -1,6 +1,6 @@
-# Project Name
+# Data Export Access - Admin UI
 
-Project Description
+Admin user interface for Data Export Access. Aimed to be used by support and admins.
 
 # Folder Structure
 
